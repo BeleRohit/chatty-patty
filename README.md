@@ -1,5 +1,3 @@
-# chatty-patty
-
 # Chat with PDF using Free LLM API and Streamlit
 
 ## Overview
