@@ -17,8 +17,7 @@ This project is a proof-of-concept web application that allows users to chat wit
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/BeleRohit/chatty-patty.git>
     ```
 
 2. **Create a virtual environment:**
