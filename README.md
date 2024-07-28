@@ -98,7 +98,3 @@ This project is a proof-of-concept web application that allows users to chat wit
 - **Challenge:** Efficiently matching user queries with relevant PDF content.
   - **Solution:** Developed a heuristic-based matching method to align queries with the most relevant parts of the text.
 
-## Contact
-
-For any questions or suggestions, please reach out to [Your Name] at [Your Email].
-
