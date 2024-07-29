@@ -36,9 +36,8 @@ This project is a proof-of-concept web application that allows users to chat wit
 4. **Obtain an Anyscale API key:**
    - Sign up for a free API key from Anyscale at [https://www.anyscale.com/](https://www.anyscale.com/).
    - Store the API key in an environment variable:
-     ``
-      ANYSCALE_API_KEY='your-api-key-here'
-     ```
+     ANYSCALE_API_KEY='your-api-key-here'
+     
 
 ## Usage Guide
 
