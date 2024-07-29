@@ -1,4 +1,6 @@
 # Chat with PDF using Free LLM API and Streamlit
+Video Demo Link : [Google Drive Link] (https://drive.google.com/file/d/1asiXc1eGrzeUgk9z_Jm4Cm3b4qO_hNfM/view?usp=sharing)
+
 
 ## Overview
 
@@ -34,8 +36,8 @@ This project is a proof-of-concept web application that allows users to chat wit
 4. **Obtain an Anyscale API key:**
    - Sign up for a free API key from Anyscale at [https://www.anyscale.com/](https://www.anyscale.com/).
    - Store the API key in an environment variable:
-     ```bash
-     export ANYSCALE_API_KEY='your-api-key-here'  # On Windows, use `set ANYSCALE_API_KEY=your-api-key-here`
+     ``
+      ANYSCALE_API_KEY='your-api-key-here'
      ```
 
 ## Usage Guide
